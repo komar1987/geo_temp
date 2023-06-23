@@ -8,5 +8,5 @@ def test_add():
 def test_subtract():
     assert subtract (50 , 20) == 30
 
-def test_subtract():
+def test_devide():
     assert subtract (70 , 10) == 7
